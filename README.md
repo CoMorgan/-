@@ -1,4 +1,2 @@
-# sample-from-codes
-Образец работа
-
+# subcategory-bot-code
 код телеграм бота подкатегории
